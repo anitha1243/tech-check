@@ -1,0 +1,14 @@
+{
+  "name": "term-deposit-calculator",
+  "version": "1.0.0",
+  "description": "A calculator that is used to forecast the return on a term deposit.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
