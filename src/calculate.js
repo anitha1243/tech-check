@@ -1,3 +1,5 @@
+import { compoundedTerms } from "./constants.js";
+
 export function calculateTermDeposit(
     deposit,
     interestRatePercent,
